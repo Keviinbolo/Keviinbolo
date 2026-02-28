@@ -32,16 +32,6 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Keviinbolo/Keviinbolo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Keviinbolo/Keviinbolo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Keviinbolo/Keviinbolo/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <img align="left" height="200" src="https://media.tenor.com/48Vk0zt21jMAAAAi/career-in-progress.gif"  />
 
 ###
@@ -49,8 +39,3 @@
 <img align="right" height="200" src="https://media.tenor.com/X855MeE29QMAAAAM/nails-family-guy.gif"  />
 
 ###
-
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-Sin archivos seleccionados
-Attach files by dragging & dropping, selecting or pasting them.
- 
